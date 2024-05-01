@@ -1,10 +1,10 @@
 # Canny-edge-detector-with-CUDA
 
 # Requirements
-NVIDIA GPU with CUDA support
-CUDA Toolkit installed
-Python 3.x
-Conda environment with Numba and Pillow packages
+NVIDIA GPU with CUDA support  
+CUDA Toolkit installed  
+Python 3.x  
+Conda environment with Numba and Pillow packages  
 
 # Usage
 1. Activate the Conda environment with Numba: conda activate numba
